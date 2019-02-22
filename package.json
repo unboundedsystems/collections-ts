@@ -1,0 +1,34 @@
+{
+    "name": "@usys/collections-ts",
+    "version": "0.0.1",
+    "description": "TypeScript wrapper for collections.js",
+    "main": "index.js",
+    "scripts": {},
+    "author": "Unbounded Systems",
+    "license": "MIT",
+    "dependencies": {
+        "collections": "^5.1.5"
+    },
+    "contributors": [
+        {
+            "name": "Mark Terrel"
+        }
+    ],
+    "keywords": [
+        "collections",
+        "typescript",
+        "types",
+        "ts",
+        "data structures",
+        "list",
+        "set",
+        "map"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unboundedsystems/collections-ts.git"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
